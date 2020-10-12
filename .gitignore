@@ -1,0 +1,6 @@
+!.gitignore
+*.go-darwin-amd64
+*.go-windows*.exe
+*.go-linux*
+go.sum
+modules.txt
