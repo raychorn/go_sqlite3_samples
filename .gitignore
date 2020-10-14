@@ -4,3 +4,4 @@
 *.go-linux*
 go.sum
 modules.txt
+*.db
